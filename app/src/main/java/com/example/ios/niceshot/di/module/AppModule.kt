@@ -4,6 +4,7 @@ import android.app.Application
 import com.example.ios.niceshot.Utils.NiceShotApp
 import dagger.Module
 import dagger.Provides
+import dagger.internal.DaggerCollections
 import javax.inject.Singleton
 
 /**
